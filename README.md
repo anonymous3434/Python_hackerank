@@ -1,2 +1,2 @@
 # Python_hackerank
-Hackerank and dasta structures competitive solutions
+Hackerank and data structures competitive solutions
